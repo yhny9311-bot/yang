@@ -1,0 +1,5 @@
+{
+  "name": "ScholarRef - Intelligent Citation Finder",
+  "description": "A research assistant tool that analyzes text to find real, verifiable references (journals, news, books) from sources like IEEE, Nature, Web of Science, CNKI, Baidu Scholar, and Google Scholar using search grounding. Supports DOI lookup.",
+  "requestFramePermissions": []
+}
